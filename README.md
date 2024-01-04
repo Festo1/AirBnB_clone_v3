@@ -3,7 +3,7 @@
 
 ## Designing a RESTful API with Python and Flask
 
-**# Unlocking a World of Travel Possibilities: The Airbnb Clone RESTful API**
+# **Unlocking a World of Travel Possibilities: The Airbnb Clone RESTful API**
 
 ### 0x05. AirBnB clone - RESTful API
 
@@ -13,7 +13,7 @@
 
 **Forge a gateway to captivating experiences with this RESTful API, inspired by Airbnb.** Designed to power a web application that bridges travelers with remarkable accommodations, this project immerses you in the development of robust backend services.
 
-##Key Features
+## **Key Features**
 
 - **Comprehensive Entity Management:**
     - Effortlessly create, read, update, and delete essential entities:
@@ -34,7 +34,7 @@
 - **Clear and concise API documentation**
 - **Comprehensive unit tests**
 
-## Technologies at the Helm:
+## **Technologies at the Helm:**
 
 - **Python:** The versatile language orchestrating the API's core logic
 - **Flask:** A lightweight and adaptable web framework, providing a solid foundation
@@ -66,12 +66,12 @@
    flask run
    ```
 
-**## API Documentation**
+## **API Documentation**
 
 - **Interactive API documentation:** http://127.0.0.1:5000/api/v1/docs: http://127.0.0.1:5000/api/v1/docs
 - **Detailed documentation in README (optional):** Provide clear descriptions of endpoints, request/response formats, and usage examples.
 
-**## Usage Examples**
+## **Usage Examples**
 
 - **Fetch all places:**
    ```bash
@@ -82,7 +82,7 @@
    curl -X POST -H "Content-Type: application/json" -d '{"username": "johndoe", "email": "johndoe@example.com", "password": "password123"}' http://127.0.0.1:5000/api/v1/users
    ```
 
-**## Contributing**
+## **Contributing**
 
 We welcome contributions! Please follow these steps:
 
