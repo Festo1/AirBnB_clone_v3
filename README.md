@@ -13,7 +13,7 @@
 
 **Forge a gateway to captivating experiences with this RESTful API, inspired by Airbnb.** Designed to power a web application that bridges travelers with remarkable accommodations, this project immerses you in the development of robust backend services.
 
-**## Key Features**
+##Key Features
 
 - **Comprehensive Entity Management:**
     - Effortlessly create, read, update, and delete essential entities:
@@ -34,7 +34,7 @@
 - **Clear and concise API documentation**
 - **Comprehensive unit tests**
 
-**## Technologies at the Helm:**
+## Technologies at the Helm:
 
 - **Python:** The versatile language orchestrating the API's core logic
 - **Flask:** A lightweight and adaptable web framework, providing a solid foundation
@@ -43,7 +43,7 @@
 - **Flask-RESTful:** Streamlining RESTful API development with ease
 - **Flask-JWT-Extended:** Mastering authentication and authorization with JSON Web Tokens
 
-**## Getting Started**
+## **Getting Started**
 
 1. **Clone the repository:**
    ```bash
